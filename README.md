@@ -32,17 +32,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/serkankrdag">
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serkankrdag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkankrdag&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
