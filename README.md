@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://www.sesasoft.com.tr"><img src="https://img.shields.io/badge/-sesasoft.com.tr-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/serkankradg"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/serkankradg"><img src="https://img.shields.io/badge/-serkankradg-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mirackrdag@gmail.com"><img src="https://img.shields.io/badge/-mirackrdag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mirackrdag"><img src="https://img.shields.io/badge/-@mirackrdag-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/mirackrdag"><img src="https://img.shields.io/badge/-@mirackrdag-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
