@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -43,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.cngsoft.com.tr"><img src="https://img.shields.io/badge/-Cngsoft-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.miracsoft.com.tr"><img src="https://img.shields.io/badge/-Miracsoft-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/serkankradg"><img src="https://img.shields.io/badge/-serkankradg-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mirackrdag@gmail.com"><img src="https://img.shields.io/badge/-mirackrdag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mirackrdag"><img src="https://img.shields.io/badge/-@mirackrdag-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
