@@ -9,8 +9,7 @@
 🌱 &nbsp;I embarked on a journey to learn more about web programming, artificial intelligence, mobile development, and cloud architecture.\
 ✍️ &nbsp;In my spare time, I pursue software development as a hobby or additional profession.
 💬 &nbsp;Please feel free to contact me for pro bono consulting and volunteering, or simply to engage in interesting discussions.\
-✉️ &nbsp;You can send me an email at mirackrdag@gmail.com, and I will do my best to reply as promptly as possible.\
-📄 &nbsp;Please have a look at my [Résumé](https://serkankrdag.github.io/MyResumeWebsite/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can send me an email at mserkankradg@gmail.com, and I will do my best to reply as promptly as possible.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
